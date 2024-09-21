@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>HueArcStudio</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="HueArcStudio">
+	<meta name="keywords" content="HueArcStudio">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Favicon -->   
+	<link href="img/favicon.ico" rel="shortcut icon"/>
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="css/animate.css"/>
+	<link rel="stylesheet" href="css/owl.carousel.css"/>
+	<link rel="stylesheet" href="css/style.css"/>
+
+
+
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+	
+	<!-- Header section start -->   
+	<header class="header-area">
+		<a href="index.html" class="logo-area">
+			<img src="img/logo.png" alt="" style="opacity: 0.7">
+		</a>
+		<div class="nav-switch">
+			<i class="fa fa-bars"></i>
+		</div>
+		<div class="phone-number">+91 949 743 3954</div>
+		<nav class="nav-menu">
+			<ul>
+				<li class="active"><a href="index.html">Home</a></li>
+				<li><a href="about.html">About us</a></li>
+				<li><a href="service.html">Services</a></li>
+				<li><a href="portfolio.html">Portfolio</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	   
+
+
+	<!-- Hero section start -->
+	<section class="hero-section">
+		<!-- left social link bar -->
+		<div class="left-bar">
+			<div class="left-bar-content">
+				<div class="social-links">
+					<a href="#"><i class="fa fa-pinterest"></i></a>
+					<a href="#"><i class="fa fa-linkedin"></i></a>
+					<a href="#"><i class="fa fa-instagram"></i></a>
+					<a href="#"><i class="fa fa-facebook"></i></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
+				</div>
+			</div>
+		</div>
+		<!-- hero slider area -->
+		<div class="hero-slider">
+			<div class="hero-slide-item set-bg" data-setbg="img/bg.jpg">
+				<div class="slide-inner">
+					<div class="slide-content">
+					<h2>Architectural <br>Design <br>Firm  </h2>
+					<a href="#projects-section" class="site-btn sb-light">See Project</a>
+
+
+					</div>		
+				</div>
+			</div>	
+			<div class="hero-slide-item set-bg" data-setbg="img/bg.jpg">
+				<div class="slide-inner">
+					<div class="slide-content">
+					<h2>Minimalistic <br>Architecture <br> and more</h2>
+					<a href="#projects-section" class="site-btn sb-light">See Project</a>
+					</div>	
+				</div>
+			</div>	
+		</div>
+		<div class="slide-num-holder" id="snh-1"></div>
+		<div class="hero-right-text">architecture</div>
+	</section>
+	
+
+
+	<!-- Intro section start -->
+	<section class="intro-section pt100 pb50">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 intro-text mb-5 mb-lg-0">
+					<h2 class="sp-title">We are a creative Architecture<span>Studio</span></h2>
+					<p>Dive into the world of HueArcStudio where we translate your vision into reality. Explore our architectural design webpage to discover our portfolio of captivating projects, showcasing our unique approach to crafting spaces that inspire. Get a glimpse into our creative process and see how we can transform your dreams into beautifully designed structures. </p>
+					<a href="#projects-section" class="site-btn sb-dark">See Project</a>
+				</div>
+				<div class="col-lg-5 pt-4">
+					<img src="img/intro.png" alt="">
+				</div>
+			</div>
+		</div>
+	</section>
+	
+
+
+	<!-- Service section start -->
+	<section class="service-section spad">
+		<div class="container">
+			<div class="section-title">
+				<h2>Services</h2>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-md-6">
+					<div class="service-box">
+						<div class="sb-icon">
+							<div class="sb-img-icon">
+								<img src="img/icon/dark/1.png" alt="">
+							</div>
+						</div>
+						<h3>Plans and Projects</h3>
+						<p>We bring your ideas to life, translating your vision into detailed plans and actionable projects.</p>
+						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="service-box">
+						<div class="sb-icon">
+							<div class="sb-img-icon">
+								<img src="img/icon/dark/2.png" alt="">
+							</div>
+						</div>
+						<h3>Conceptual Architecture</h3>
+						<p>We don't just design buildings, we create. Our conceptual architecture phase explores initial ideas and creative possibilities for your space.</p>
+						
+					
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="service-box">
+						<div class="sb-icon">
+							<div class="sb-img-icon">
+								<img src="img/icon/dark/3.png" alt="">
+							</div>
+						</div>
+						<h3>Apartment Buildings</h3>
+						<p>We design functional and beautiful apartment buildings that cater to modern living needs.</p>
+						
+					
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="service-box">
+						<div class="sb-icon">
+							<div class="sb-img-icon">
+								<img src="img/icon/dark/4.png" alt="">
+							</div>
+						</div>
+						<h3>Skyscrapers Buildings</h3>
+						<p>We push the boundaries with innovative skyscraper designs that blend form and function.</p>
+						
+					
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="service-box">
+						<div class="sb-icon">
+							<div class="sb-img-icon">
+								<img src="img/icon/dark/5.png" alt="">
+							</div>
+						</div>
+						<h3>Documentation</h3>
+						<p>Clear and concise communication is key. We provide comprehensive documentation, ensuring a smooth transition from concept to construction.</p>
+						
+					
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="service-box">
+						<div class="sb-icon">
+							<div class="sb-img-icon">
+								<img src="img/icon/dark/6.png" alt="">
+							</div>
+						</div>
+						<h3>Restoration Projects</h3>
+						<p>We breathe new life into existing structures, combining historic preservation with modern design sensibilities.</p>
+						
+					
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+
+
+
+	<!-- CTA section start -->
+	<section class="cta-section pt100 pb50">
+		<div class="cta-image-box"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 pl-lg-0 offset-lg-5 cta-content">
+					<h2 class="sp-title">Dare to dream of a modern <span>home</span></h2>
+					<p>While we don't directly build homes, your clients can trust Creative Architecture Studio to be their partner in crafting their dream space. We combine award-winning conceptual design with meticulous planning and documentation, ensuring a home that reflects their vision perfectly.  Our expertise ranges from cozy apartments to soaring skyscrapers, and we'll guide you through every step of the process, from the initial spark of an idea to a beautifully designed reality.</p>
+					<div class="cta-icons">
+						<div class="cta-img-icon">
+							<img src="img/icon/light/1.png" alt="">
+						</div>
+						<div class="cta-img-icon">
+							<img src="img/icon/light/2.png" alt="">
+						</div>
+						<div class="cta-img-icon">
+							<img src="img/icon/color/3.png" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+
+
+	<!-- Milestones section Start -->
+	<section class="milestones-section spad">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-6">
+					<div class="milestone">
+						<h2>12</h2>
+						<p>Years <br>of <br>Experience</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="milestone">
+						<h2>150</h2>
+						<p>Projects <br>Taken</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="milestone">
+						<h2>2k</h2>
+						<p>Instagram <br>Followers</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="milestone">
+						<h2>7</h2>
+						<p>Awards <br>Won</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Milestones section end -->
+
+
+	<!-- Projects section start -->
+	<div id="projects-section" class="projects-section pb50">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+					<div class="section-title">
+						<h1>Projects</h1>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<ul class="projects-filter-nav">
+						<li class="btn-filter" data-filter="*">All</li>
+						<li class="btn-filter" data-filter=".rest">Restoration</li>
+						<li class="btn-filter" data-filter=".build">Buildings</li>
+						<li class="btn-filter" data-filter=".apart">Apartments</li>
+					</ul>
+				</div>
+			</div>
+		</div>                      
+		<div id="projects-carousel" class="projects-slider">
+			<div class="single-project set-bg rest" data-setbg="img/projects/1.png">
+				<div class="project-content">
+					<h2> <br> Restoration</h2>
+					<p>Jan 25, 2024</p>
+					
+				</div>
+			</div>
+			<div class="single-project set-bg build" data-setbg="img/projects/2.jpg">
+				<div class="project-content">
+					<h2>Office <br> Space</h2>
+					<p>Feb 20, 2023</p>
+					
+				</div>
+			</div>
+			<div class="single-project set-bg apart" data-setbg="img/projects/3.jpg">
+				<div class="project-content">
+					<h2> <br> Apartments</h2>
+					<p>May 25, 2022</p>
+					
+				</div>
+			</div>
+			<div class="single-project set-bg rest" data-setbg="img/projects/4.jpg">
+				<div class="project-content">
+					<h2> <br> Building</h2>
+					<p>Mar 16, 2021</p>
+					
+				</div>
+			</div>
+		
+		</div>
+	</div>
+	<!-- Projects section end -->
+
+
+	
+
+
+	<!-- Footer section start -->
+	<footer class="footer-section">
+		<div class="footer-social">
+			<div class="social-links">
+				<a href="#"><i class="fa fa-pinterest"></i></a>
+				<a href="#"><i class="fa fa-linkedin"></i></a>
+				<a href="#"><i class="fa fa-instagram"></i></a>
+				<a href="#"><i class="fa fa-facebook"></i></a>
+				<a href="#"><i class="fa fa-twitter"></i></a>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9 offset-lg-3">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="footer-item">
+								<ul>
+									<li><a href="#">Home</a></li>
+									<li><a href="#">About us</a></li>
+									<li><a href="#">Services</a></li>
+									<li><a href="#">Portfolio</a></li>
+									<li><a href="#">Blog</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="footer-item">
+								<ul>
+									<li><a href="#">Terms & Conditions</a></li>
+									<li><a href="#">FAQ</a></li>
+									<li><a href="#">Help Desk</a></li>
+									<li><a href="#">Job Aplications</a></li>
+									<li><a href="#">Site Map</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="footer-item">
+								<ul>
+									<li><a href="#">Privacy</a></li>
+									<li><a href="#">Contact us</a></li>
+									<li><a href="#">Newsletter</a></li>
+									<li><a href="#">Clients Testimonials</a></li>
+									<li><a href="#">FAQ</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+		<div class="copyright">Copyright &copy; <script>document.write(new Date().getFullYear());</script> All rights reserved. <br>Made by: <br>Fayiz<br>Sherbin<br>Vishnu</a></div>   
+
+	</footer>
+	<!-- Footer section end -->
+
+
+
+
+	<!--====== Javascripts & Jquery ======-->
+	<script src="js/jquery-2.1.4.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.owl-filter.js"></script>
+	<script src="js/magnific-popup.min.js"></script>
+	<script src="js/circle-progress.min.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>
